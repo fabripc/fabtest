@@ -1,3 +1,9 @@
+# hidden files
+.*
+
+# vscode
+*.code-workspace
+
 # Prerequisites
 *.d
 
